@@ -114,12 +114,12 @@ To run or modify this project, you need:
 
 ## OUTPUT IMAGE
 
---
+
 ### IN DESIGN PHASE
 
 ![Image](https://github.com/user-attachments/assets/268e5e0d-e784-4a99-8587-1c11102b5832)
 
---
+
 
 ### IN IMPLEMENT PHASE 
 
