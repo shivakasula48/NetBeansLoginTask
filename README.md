@@ -67,7 +67,6 @@ To run or modify this project, you need:
 
 ## Getting Started
 
-### Step 1: Create a New JFrame Form
 1. **Open NetBeans IDE**:
    - Launch the IDE on your computer.
 2. **Create a New Project**:
