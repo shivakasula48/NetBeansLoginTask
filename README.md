@@ -112,7 +112,7 @@ To run or modify this project, you need:
 
 
 
-##OUTPUT IMAGE
+## OUTPUT IMAGE
 
 
 ### IN DESIGN PHASE
