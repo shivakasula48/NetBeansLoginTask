@@ -110,3 +110,19 @@ To run or modify this project, you need:
 
 ---
 
+
+
+##OUTPUT IMAGE
+
+
+### IN DESIGN PHASE
+
+![Image](https://github.com/user-attachments/assets/268e5e0d-e784-4a99-8587-1c11102b5832)
+
+### IN IMPLEMENT PHASE 
+
+![Image](https://github.com/user-attachments/assets/4baef91c-ba86-44c1-bb05-86526721e7d0)
+
+
+
+
