@@ -114,14 +114,26 @@ To run or modify this project, you need:
 
 ## OUTPUT IMAGE
 
-
+--
 ### IN DESIGN PHASE
 
 ![Image](https://github.com/user-attachments/assets/268e5e0d-e784-4a99-8587-1c11102b5832)
 
+--
+
 ### IN IMPLEMENT PHASE 
 
 ![Image](https://github.com/user-attachments/assets/4baef91c-ba86-44c1-bb05-86526721e7d0)
+
+---
+
+# License
+
+This project is open-source and free to use by anyone for personal or educational purposes.  
+Feel free to modify, distribute, and use the code as long as proper credit is given to the original author, **Kasula Shiva**.
+
+
+
 
 
 
