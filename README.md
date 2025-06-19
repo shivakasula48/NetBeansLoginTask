@@ -65,6 +65,23 @@ To run or modify this project, you need:
 
 ---
 
+## Getting Started
+
+### Step 1: Create a New JFrame Form
+1. **Open NetBeans IDE**:
+   - Launch the IDE on your computer.
+2. **Create a New Project**:
+   - Go to `File > New Project`.
+   - In the "New Project" wizard:
+     - Select `Java` under "Categories."
+     - Select `Java Application` under "Projects."
+     - Click `Next`.
+   - Name the project (e.g., `LoginApp`) and click `Finish`.
+
+---
+
+
+
 ## Design Steps
 1. **Create a JFrame Form**:
    - Project Name: `LoginApp`
@@ -94,15 +111,3 @@ To run or modify this project, you need:
 
 ---
 
-### Step 4: Commit and Push Changes
-If you’re using Git locally:
-1. Navigate to your project folder.
-2. Initialize Git: `git init`.
-3. Add files: `git add .`.
-4. Commit: `git commit -m "Initial commit for Login Page Design"`.
-5. Link the repository: `git remote add origin <repository-link>`.
-6. Push changes: `git push -u origin main`.
-
----
-
-If you have links or additional resources related to your previous tasks, feel free to share them, and I can help integrate them into the documentation.
